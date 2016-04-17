@@ -1,0 +1,12 @@
+{
+  "name": "odbc-watch",
+  "version": "0.0.1",
+  "main": "./lib",
+  "dependencies": {
+    "async": "^1.5.2",
+    "lodash": "^4.11.1",
+    "odbc": "https://github.com/0x7f/node-odbc#querynotifications",
+    "uuid": "^2.0.2",
+    "xml2js": "^0.4.16"
+  }
+}
