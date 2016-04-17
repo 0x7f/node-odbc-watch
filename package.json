@@ -1,6 +1,6 @@
 {
   "name": "odbc-watch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib",
   "dependencies": {
     "async": "^1.5.2",
