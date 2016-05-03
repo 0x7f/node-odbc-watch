@@ -1,6 +1,6 @@
 # odbc-watch
 
-Watch to result of multiple SQL queries in parallel using MS SQL Server Query Notifications.
+Watch for result changes of multiple SQL queries in parallel using MS SQL Server Query Notifications.
 
 ## example
 
